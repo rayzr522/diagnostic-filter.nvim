@@ -1,6 +1,6 @@
 # diagnostic-filter.nvim
 
-> A simple Neovim plugin to let you filter out diagnostics based on patterns.
+> a simple neovim plugin to let you filter out diagnostics based on patterns.
 
 ## installation
 
